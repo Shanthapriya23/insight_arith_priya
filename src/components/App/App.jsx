@@ -19,6 +19,7 @@ import Naveesh_moreexample from "../mul/Naveesh_moreexample";
 import Urdvha from "../mul/Urdvha";
 import Quick from "../mul/quickrecap";
 import More from "../mul/moreexample";
+import TryN from "../mul/try_nikh";
 export default function App() {
     return (
         <div>
@@ -32,6 +33,7 @@ export default function App() {
                         <Route path='/mul/Nikhilam' element={<Nikhilam />} />
                         <Route path = '/mul/Urdvha' element = {<Urdvha/>}/>
                     </Route>
+                    <Route path='/mul/try_nikh' element={<TryN/>}/>
                     <Route path='mul/moreexample' element={<More/>}/>
                     <Route path='/mul/Naveesh' element={<Naveesh />} />
                     <Route path = '/mul/Naveesh_moreexample' element = {<Naveesh_moreexample/>}/>

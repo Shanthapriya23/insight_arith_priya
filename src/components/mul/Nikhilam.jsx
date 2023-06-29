@@ -33,8 +33,7 @@ export default function Nikhilam(){
                         <h3>Think about this❗</h3>
                         <p>How do you multiply any numbers, which aren't close to powers of 10? The Indian methods have a solution for these too. We can use bases which are multiples of power of 10 (like 20,300, etc) or a fraction of powers of 10. Click here to view those methods.</p>
                         <h1>Wanna try some problems?</h1>
-                        <button>click here</button>
-                        <button>answers</button>
+                        <button><NavLink to="/mul/try_nikh" >click here</NavLink></button>
                         <p>check your answers using <NavLink to="/mul/Naveesh" >Naveesh</NavLink></p>
                         
                     </div>
