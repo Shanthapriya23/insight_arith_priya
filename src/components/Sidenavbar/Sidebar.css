@@ -1,0 +1,38 @@
+/* CSS for the side navbar container */
+.container {
+    display: flex;
+    background-color: #000;
+    float:left;
+  }
+  
+  /* CSS for the side navbar */
+  .sidebar {
+    width: 180px; /* Adjust the width as needed */
+    background-color: #45af9a;
+    padding: 8px;
+
+  }
+  
+  /* CSS for the navbar items */
+  .navbar-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  /* CSS for the navbar item links */
+  .navbar-item a {
+    display: inline-block;
+    color: #eaf1ea;
+    
+    text-decoration: none;
+    padding: 10px;
+  }
+c
+  
+  /* CSS for the content area */
+  .content {
+    flex: 1;
+    padding: 20px;
+  }
+  

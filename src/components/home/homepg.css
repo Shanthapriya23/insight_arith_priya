@@ -1,0 +1,49 @@
+.Content-home{
+    height: 200px;
+    margin-left: 25px;
+    word-spacing: 2%;
+    font-size: x-large;
+    line-height: 40px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.home-li{
+    margin-left:50px;
+    list-style-type:circle;
+    word-spacing: 5%;
+    font-size: bolder;
+}
+.home-ul{
+    background-color: #D0EA00;
+    margin-top:40px;
+    margin-left:20px;
+}
+.home-img{
+    margin-top:5px;
+    height: 225px;
+    width: 225px;
+    float: left;
+}
+
+.credits{
+    background-color: #111;
+    margin-top:25%;
+    max-height: 50px;
+}
+.credit-p{
+    display: inline;
+    width:fit-content;
+    font-size: 20px;
+    height: fit-content;
+    color:#D0EA00;
+    padding-top: 20% ;
+}
+.credit-p1{
+    display: inline;
+    background-color: #D0EA00;
+    color:#111;
+    margin-left:85%;
+    width:max-content;
+    height:max-content;
+    border-radius: 60px;
+}
