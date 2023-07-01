@@ -1,5 +1,5 @@
 import React from 'react';
-import Sidebar from "../Sidenavbar/Sidebar"
+import Sidenavbar from "../Sidenavbar/Sidenavbar"
 import { Outlet } from 'react-router-dom';
 
 export default function Mul()
@@ -7,7 +7,7 @@ export default function Mul()
 {
     return(
         <div className='top-container'>
-            <Sidebar/>
+            <Sidenavbar/>
             <Outlet/>
         </div>
     );

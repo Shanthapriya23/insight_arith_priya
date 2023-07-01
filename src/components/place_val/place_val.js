@@ -1,8 +1,12 @@
 import React from 'react';
+import Sidenavbar from '../Sidenavbar/Sidenavbar';
+import { Outlet } from 'react-router-dom';
 const Place_val = () => {
   return (
     <div>
-      <div>this is the Place value page</div>
+    <Sidenavbar/>
+    <Outlet/>
+      
     </div>
   );
 };

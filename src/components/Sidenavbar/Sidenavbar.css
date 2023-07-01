@@ -28,11 +28,14 @@
     text-decoration: none;
     padding: 10px;
   }
-c
+.navbar-item a.active{
+  color:rgb(38, 255, 0);
+  font-weight:bold;
+}
   
   /* CSS for the content area */
-  .content {
+.content {
     flex: 1;
     padding: 20px;
-  }
+ }
   

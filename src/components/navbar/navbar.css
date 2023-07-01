@@ -15,8 +15,7 @@
     margin-bottom: 0;
     margin-left: 40%;
   }
-  ul {
-    list-style-type: none;
+ul{
     margin: 0;
     padding: 0;
     overflow: hidden;
@@ -42,11 +41,7 @@
     padding: 14px 16px;
     text-decoration: none;  
   }
-  li a:hover {
-    color: #f9ec05;
-    
-    
-  }
+  
   .primary-nav .tagline
   {
     bottom:0;

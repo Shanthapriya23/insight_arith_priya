@@ -8,8 +8,8 @@ export default function Intro() {
 
                     We'll see two methods, which greatly improve the speed of multiplication. They are</p>
                 <ul>
-                    <li>Nikhilam</li>
-                    <li>Urdhva Tiryagbyam</li>
+                    <li style={{'text-decoration':'underline'}}>Nikhilam</li>
+                    <li style={{'text-decoration':'underline'}}>Urdhva Tiryagbyam</li>
                 </ul>
                 <h2 style={{ 'margin-left': '200px' }}>Let's explore beyond the limits!</h2>
             </div>

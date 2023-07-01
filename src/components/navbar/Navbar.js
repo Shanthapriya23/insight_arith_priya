@@ -6,14 +6,14 @@ const Navbar = () => {
     const NavStyle = ({ isActive }) => {
         return {
             fontWeight: isActive ? 'bolder' : 'larger',
-            color: isActive ? '#A8F400' : 'white',
+            color: isActive ? '#F8CF50' : 'white',
         };
     };
 
     return (
         <nav className='wrapper'>
             <nav className='primary-nav'>
-                <ul>
+                <ul >
                     <li><img src={logo} alt='Insight Logo' /></li>
                     <li>
                         <p class='tagline'>Essence of Indian Traditional Science and Math</p>

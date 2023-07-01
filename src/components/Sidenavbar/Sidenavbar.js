@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { NavLink, useLocation } from 'react-router-dom';
-import "./Sidebar.css";
+import "./Sidenavbar.css";
 
-const Sidebar = () =>{
+const Sidenavbar = () =>{
     const location = useLocation();
     const [navigationItems, setNavigationItems] = useState([]);
     useEffect(
@@ -15,6 +15,14 @@ const Sidebar = () =>{
               { label: 'Introduction', link: '/mul/MulIntro' },
               { label: 'Nikhilam', link: '/mul/Nikhilam' },
               { label: 'Urdvha Tiryagbyam', link: '/mul/Urdvha' },
+            ];
+          }
+          else if(currentPage==='/place_val' || currentPage==='/place_val/smallstory' || currentPage==='/place_val/M_behind' || currentPage==='/place_val/Mishrank' || currentPage==='/place_val/try_place_val'){
+            items = [
+              { label: 'A small Story', link: '/place_val/smallstory' },
+              { label: 'Maths Behind PVS', link: '/place_val/M_behind' },
+              { label: 'Mishrank', link: '/place_val/Mishrank' },
+              { label: 'Try these', link: '/place_val/try_place_val'}
             ];
           }
           setNavigationItems(items);
@@ -37,4 +45,4 @@ return (
   
     
 };
-export default Sidebar;
+export default Sidenavbar;

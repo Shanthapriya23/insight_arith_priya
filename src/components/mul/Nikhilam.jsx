@@ -4,7 +4,7 @@ export default function Nikhilam(){
     return(
         <div className="container">
             <div className="centered-text">
-                    <b><p style={{'font-size':'20px'}}>NIKHILAM</p></b>
+                    <b><p style={{'font-size':'x-large','text-decoration':'underline'}}>NIKHILAM</p></b>
                     <div className = "main-content">
                         <p>You must have studied Multiplication tables in your earlier classes. By now, you'll be thinking that you should know the tables of numbers upto 10, using which you can multiply greater numbers.</p>
                         <p>Is it necessary that you need to memorise tables upto 10? You can do with 5.Take the case of 9 x 7, which you know is 63.</p>

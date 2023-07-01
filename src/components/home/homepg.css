@@ -3,8 +3,9 @@
     margin-left: 25px;
     word-spacing: 2%;
     font-size: x-large;
+    font-weight:300;
     line-height: 40px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:Arial, Helvetica, sans-serif;
 }
 
 .home-li{
@@ -14,7 +15,7 @@
     font-size: bolder;
 }
 .home-ul{
-    background-color: #D0EA00;
+    background-color: #F8CF50;
     margin-top:40px;
     margin-left:20px;
 }
@@ -23,27 +24,28 @@
     height: 225px;
     width: 225px;
     float: left;
+    margin-left:0px;
 }
 
 .credits{
     background-color: #111;
-    margin-top:25%;
-    max-height: 50px;
+    margin-top:20%;
+    max-height: 120px;
 }
 .credit-p{
     display: inline;
     width:fit-content;
     font-size: 20px;
     height: fit-content;
-    color:#D0EA00;
+    color:#F8CF50;
     padding-top: 20% ;
 }
 .credit-p1{
     display: inline;
-    background-color: #D0EA00;
+    background-color: #F8CF50;
     color:#111;
     margin-left:85%;
     width:max-content;
-    height:max-content;
+    height:fit-content;
     border-radius: 60px;
 }
