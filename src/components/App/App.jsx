@@ -75,7 +75,7 @@ export default function App(){
         <div>
         <Navbar/>
         <Routes>
-        <Route path='/' element={<Homepg/>} />
+        <Route path='/insight_arith_priya/' element={<Homepg/>} />
         <Route path='/place_val' element={<Place_val />}>
             <Route index element={<SmallStory/>}/>
             <Route path='/place_val/smallstory' element={<SmallStory/>}/>

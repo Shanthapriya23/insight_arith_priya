@@ -22,7 +22,7 @@ const Navbar = () => {
             </nav>
             <nav className='secondary-nav'>
                 <ul>
-                    <li><NavLink style={NavStyle} to='/'>HOME</NavLink></li>
+                    <li><NavLink style={NavStyle} to='/insight_arith_priya/'>HOME</NavLink></li>
                     <li><NavLink style={NavStyle} to='/place_val'>PLACE VALUE SYSTEM</NavLink></li>
                     <li><NavLink style={NavStyle} to='/mul'>MULTIPLICATION</NavLink></li>
                     <li><NavLink style={NavStyle} to='/division'>DIVISION</NavLink></li>
