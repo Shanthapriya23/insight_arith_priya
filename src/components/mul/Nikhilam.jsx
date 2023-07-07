@@ -4,7 +4,7 @@ import Nikimg1 from "../../images/nikimg1.gif"
 import Nikimg2 from "../../images/nikimg2.gif" 
 import Nikimg3 from "../../images/nikimg3.gif" 
 import Nikimg4 from "../../images/nikimg4.gif" 
-import Nikimg5 from "../../images/nikim"
+import Nikimg5 from "../../images/nikimg5.gif"
 export default function Nikhilam(){
     return(
         <div className="body">
