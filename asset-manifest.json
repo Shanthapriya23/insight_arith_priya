@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/insight_arith/static/css/main.01566b28.css",
-    "main.js": "/insight_arith/static/js/main.2c96f97d.js",
-    "static/media/ex_squar3.mp4": "/insight_arith/static/media/ex_squar3.7790b82bead290fac31e.mp4",
-    "static/media/ex_squar2.mp4": "/insight_arith/static/media/ex_squar2.456d68427e7924c4ce47.mp4",
-    "static/media/example1videosquar.mp4": "/insight_arith/static/media/example1videosquar.f5949aa1331dfb0d3ef8.mp4",
-    "static/media/solution4.png": "/insight_arith/static/media/solution4.2cd2156a86b89708df1f.png",
-    "static/media/dwandaeq2.png": "/insight_arith/static/media/dwandaeq2.e5d5ca8c5cbf085f2f28.png",
-    "static/media/dwandaeq1.png": "/insight_arith/static/media/dwandaeq1.df96fb3eb3d4cc979d7e.png",
-    "static/media/row1apples.png": "/insight_arith/static/media/row1apples.8a7f0d82d8583eb717f1.png",
-    "static/media/insight_logo.png": "/insight_arith/static/media/insight_logo.02743136c9b9d9573cab.png",
-    "static/media/row2apples.png": "/insight_arith/static/media/row2apples.a5703c29213ceab8268b.png",
-    "index.html": "/insight_arith/index.html",
-    "main.01566b28.css.map": "/insight_arith/static/css/main.01566b28.css.map",
-    "main.2c96f97d.js.map": "/insight_arith/static/js/main.2c96f97d.js.map"
+    "main.css": "/insight_arith_priya/static/css/main.01566b28.css",
+    "main.js": "/insight_arith_priya/static/js/main.aa0fb7ea.js",
+    "static/media/ex_squar3.mp4": "/insight_arith_priya/static/media/ex_squar3.7790b82bead290fac31e.mp4",
+    "static/media/ex_squar2.mp4": "/insight_arith_priya/static/media/ex_squar2.456d68427e7924c4ce47.mp4",
+    "static/media/example1videosquar.mp4": "/insight_arith_priya/static/media/example1videosquar.f5949aa1331dfb0d3ef8.mp4",
+    "static/media/solution4.png": "/insight_arith_priya/static/media/solution4.2cd2156a86b89708df1f.png",
+    "static/media/dwandaeq2.png": "/insight_arith_priya/static/media/dwandaeq2.e5d5ca8c5cbf085f2f28.png",
+    "static/media/dwandaeq1.png": "/insight_arith_priya/static/media/dwandaeq1.df96fb3eb3d4cc979d7e.png",
+    "static/media/row1apples.png": "/insight_arith_priya/static/media/row1apples.8a7f0d82d8583eb717f1.png",
+    "static/media/insight_logo.png": "/insight_arith_priya/static/media/insight_logo.02743136c9b9d9573cab.png",
+    "static/media/row2apples.png": "/insight_arith_priya/static/media/row2apples.a5703c29213ceab8268b.png",
+    "index.html": "/insight_arith_priya/index.html",
+    "main.01566b28.css.map": "/insight_arith_priya/static/css/main.01566b28.css.map",
+    "main.aa0fb7ea.js.map": "/insight_arith_priya/static/js/main.aa0fb7ea.js.map"
   },
   "entrypoints": [
     "static/css/main.01566b28.css",
-    "static/js/main.2c96f97d.js"
+    "static/js/main.aa0fb7ea.js"
   ]
 }
