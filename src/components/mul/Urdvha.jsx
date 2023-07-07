@@ -1,6 +1,7 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
 import '../division/nik_div.css'
+import Ur1 from "../../images/ur.gif"
 export default function Urdvha(){
     return(
         <div style={urdvha}>
